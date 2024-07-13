@@ -1,0 +1,45 @@
+{
+    "routes":[
+        {
+          "src" :"/" ,
+          "dest" :"/"
+        },
+        {
+            "src" :"/products" ,
+            "dest" :"/"
+        }, 
+        {
+            "src" :"/productDetail" ,
+            "dest" :"/"
+        },
+        {
+            "src" :"/shoppingCart" ,
+            "dest" :"/"
+        },
+        {
+            "src" :"/checkout" ,
+            "dest" :"/"
+        },
+        {
+            "src" :"/orderhistroy" ,
+            "dest" :"/"
+        },
+        {
+            "src" :"/aboutus" ,
+            "dest" :"/"
+        },
+        {
+            "src" :"/admin" ,
+            "dest" :"/"
+        },
+        {
+            "src" :"/admin/manage-products" ,
+            "dest" :"/"
+        }
+        ,
+        {
+            "src" :"/admin/manage-users" ,
+            "dest" :"/"
+        }
+    ]
+}
