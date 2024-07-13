@@ -1,8 +1,34 @@
-# React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# Ecommerce-Frontend
 
-Currently, two official plugins are available:
+Welcome to the E-Commerce Website project! This project is a modern e-commerce platform built with React, Redux Toolkit, and Tailwind CSS. It provides a user-friendly interface for browsing products, managing a shopping cart, and processing orders, as well as an admin panel for managing products and users.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+
+## Demo
+
+https://ecommerce-social.vercel.app/
+
+
+## Tech Stack
+
+**Client:** React, Tailwind css, Redux Toolkit, Formik and Yup, Rapid api
+
+
+
+
+## Environment Variables
+
+To run this project, you will need to add the following environment variables to your `.env` file
+
+`VITE_RAPID_KEY`
+
+
+
+## Installation
+
+Install ecommerce-project with npm
+
+```bash
+  npm install 
+```
+    
